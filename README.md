@@ -1,4 +1,4 @@
-# PDS_WeeklyTask
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=191970&height=180&section=header&text=PDS%20WEEKLY%20TASK&fontSize=50&fontColor=FFFFFF&animation=fadeIn&desc=Python%20for%20Data%20Science%20%7C%20Weekly%20EDA%20Tasks%20%7C%20SDNBVC%202026&descSize=16&descAlignY=70" width="100%"/>
