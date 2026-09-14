@@ -87,7 +87,6 @@ Her clear explanation of each and every topic made learning Python and EDA easy 
   
 ![Views](https://komarev.com/ghpvc/?username=Madhumathi-2009&repo=PDS_WeeklyTask&style=flat-square&color=1A237E)
 ![Stars](https://img.shields.io/github/stars/Madhumathi-2009/PDS_WeeklyTask?style=flat-square&color=191970)
-![Commits](https://img.shields.io/github/commit-activity/m/Madhumathi-2009/PDS_WeeklyTask?style=flat-square&color=000080)
 
 </div>
 
