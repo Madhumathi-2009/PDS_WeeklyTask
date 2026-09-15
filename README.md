@@ -31,10 +31,10 @@ This repository **PDS_WeeklyTask** is created to document and upload all the **w
 
 |📅 Week | Task / Dataset | Notebook Link |
 | :--- | :--- | :--- |
-| Week 1 | Zomato dataset | [View Notebook](Data_Set.ipynb) |
-| Week 2 | Transaction dataset | [View Notebook](Task1_PDS.ipynb) |
-| Week 3 | Airlines dataset | [View Notebook](EDA_students_flights.ipynb) |
-| Week 4 | Superstore sales dataset | [View Notebook](Superstore%20Sales.ipynb) |
+| Week 1 | Zomato dataset | [View Notebook](Zomato.ipynb) |
+| Week 2 | Transaction dataset | [View Notebook](Transaction.ipynb) |
+| Week 3 | Airlines dataset | [View Notebook](Airline_flights.ipynb) |
+| Week 4 | Superstore sales dataset | [View Notebook](Superstore_Sales.ipynb) |
 
 </table>
 
