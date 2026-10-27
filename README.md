@@ -37,7 +37,7 @@ This repository **PDS_WeeklyTask** is created to document and upload all the **w
 | Week 4 | Superstore sales dataset | [View Notebook](Superstore_Sales.ipynb) |
 | Week 5 & 6 | Healthcare dataset | [View Notebook](Healthcare.ipynb) |
 | Week 7 & 8 | Student Performance dataset | [View Notebook](Student_Performance.ipynb) |
-
+| Week 9 & 10 | House dataset | [View Notebook](House.ipynb) |
 
 </table>
 
