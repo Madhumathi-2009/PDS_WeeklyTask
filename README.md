@@ -77,7 +77,7 @@ Her clear explanation of each and every topic made learning Python and EDA easy 
 <br>
 
 **With Gratitude,**<br>
-**C Madhumathi - Data Science & AI Student**<br>
+**C Madhumathi - Data Science & Artificial Intelligence Student**<br>
 
 </td>
 </tr>
