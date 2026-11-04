@@ -40,6 +40,7 @@ This repository **PDS_WeeklyTask** is created to document and upload all the **w
 | Week 9 & 10 | House dataset | [View Notebook](House.ipynb) |
 | Week 10 & 11 | Automobile dataset | [View Notebook](Automobile.ipynb)  |
 | Week 12 & 13 | Hotel Booking Demand dataset | [View Notebook](Hotel_Booking.ipynb)  |
+| Week 14 & 15 | Shopify dataset |   |
 
 
 </table>
