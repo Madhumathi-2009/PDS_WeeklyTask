@@ -16,7 +16,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=40&text=About%20this%20Repository&fontSize=25&fontColor=000080" width="100%"/>
 
-This repository **PDS_WeeklyTask** is created to document and upload all the **weekly EDA tasks** performed in class as instructed by our mam. All tasks are implemented in **Jupyter Notebook (100%)**.
+This repository **PDS_WeeklyTask** is created to document and upload all the **weekly EDA tasks** performed in class as instructed by our mam. All tasks are implemented in **Jupyter Notebook**.
 
 </td>
 </tr>
